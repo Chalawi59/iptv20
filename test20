@@ -1,0 +1,159 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Al Quraan" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-id="Al Quraan KW" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="Religious",Al-Qurain KTV
+https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MBC1" tvg-name="MBC1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1,AR: MBC 5" group-title="Movies",MBC 5
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1013.ts
+#EXTINF:-1,MBC Action" group-title="Movies",MBC Action
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/938.ts
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 tvg-id="MBC-Iraq" tvg-name="MBC-Iraq" group-title="Movies",MBC-Iraq
+http://beryantv.com:25461/live/02410251710104/02410251710104/934.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DQ1RfUa.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9c316dr.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-id="|OSN| Syfy HD" tvg-name="|OSN| Syfy HD" tvg-country="" tvg-url="" group-title="Movies",|OSN| Syfy HD
+http://iptv6.premium-stv.com:25461/live/pro1osnsourcepro/468556621230pro/1711.m3u8
+#EXTINF:-1 tvg-id="MYHD FOX Crime" tvg-name="FOX Crime" tvg-country="" tvg-url="" group-title="Movies",FOX Crime HD
+http://213.152.172.67:25461/live/sourcemyhdpro1/4690746424/1658.m3u8
+#EXTINF:-1,MBC FX" group-title="Movies",MBC FX
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/947.ts
+#EXTINF:-1,MBC Fox Movies Family" group-title="Movies",MBC Fox
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/945.ts
+#EXTINF:-1,MBC FOX LIFE" group-title="Movies",MBC FOX LIFE
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/946.ts
+#EXTINF:-1,MBC Fox" group-title="Movies",MBC FOX 
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/944.ts
+#EXTINF:-1,1BeIN Movies-2HD" group-title="Movies",1BeIN Movies
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
+#EXTINF:-1,1BeIN MOVIES PREMIER HD" group-title="Movies",1BeIN MOVIES PREMIER HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1021.ts
+#EXTINF:-1,1BeIN Movies Comedy HD" group-title="Movies",1BeIN Movies Comedy HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1026.ts
+#EXTINF:-1,1BeIN Movies 4HD" group-title="Movies",1BeIN Movies 4HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1017.ts
+#EXTINF:-1,1BeIN Movies 3HD" group-title="Movies",1BeIN Movies 3HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1016.ts
+#EXTINF:-1,1BeIN MOVIES 3 HD" group-title="Movies",1BeIN MOVIES 3 HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1018.ts
+#EXTINF:-1,1BeIN Movies 2HD" group-title="Movies",1BeIN Movies 2HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1015.ts
+#EXTINF:-1,1BeIN Movies 1HD" group-title="Movies",1BeIN Movies 1HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1014.ts
+#EXTINF:-1,1BeIN BOX OFFICE 2 HD" group-title="Movies",1BeIN BOX OFFICE 2 HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1025.ts
+#EXTINF:-1,1BeIN Box Office 2" group-title="Movies",1BeIN BOX OFFICE 2 
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1024.ts
+#EXTINF:-1,1BeIN Box Office 1" group-title="Movies",1BeIN BOX OFFICE 1
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1023.ts
+#EXTINF:-1,1BeIN Movies-2HD" group-title="Movies",1BeIN Movies-2HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
+#EXTINF:-1,1BeIN MOVIES PREMIER HD" group-title="Movies",1BeIN MOVIES PREMIER HD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1021.ts
+#EXTINF:-1,AR: Al Arabiya" group-title="News",Al Arabiya
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55998.ts
+#EXTINF:-1,AR: Al Arabia Alhadath" group-title="News",Al Arabiya Alhadath
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55873.ts
+#EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC-Arabic" tvg-name="BBC-Arabic" group-title="News",BBC-Arabic
+http://beryantv.com:25461/live/02410251710104/02410251710104/944.m3u8
+#EXTINF:-1 tvg-id="Al Araby" tvg-language="Al Araby" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Hurra Iraq" tvg-name="Al Hurra Iraq" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="Al Iraqiya TV" tvg-name="Al Iraqiya TV" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:-1,AR-: AlJazeera" group-title="News",AlJazeera
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1574.ts
+#EXTINF:-1,AlJazeera Mubasher" group-title="News",AlJazeera Mubasher
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1066.ts
+#EXTINF:-1,NL: AlJazeera" group-title="News",AlJazeera 
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/965.ts
+#EXTINF:-1 tvg-id="Al Mayadeen" tvg-name="Al Mayadeen" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XyMDWkz.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Mayadeen TV
+http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
+#EXTINF:-1 tvg-id="Al Rafidain" tvg-name="Al Rafidain" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 tvg-id="Al Rasheed" tvg-name="Al Rasheed" tvg-language="Arabic" tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" tvg-country="IQ" tvg-url="" group-title="News",Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-id="Al Sharqiya" tvg-name="Al Sharqiya" tvg-language="Arabic" tvg-logo="http://alsharqiyatv.info/tv.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" tvg-country="IQ" tvg-url="" group-title="News",Al Taghayer
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="Dijlah" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-country="IQ" tvg-url="" group-title="General",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RxfBIwt.png" tvg-country="EG" tvg-url="" group-title="News",Extra News
+http://149.100.10.162:8001/play/s28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="rt-arab" tvg-name="RT Арабский" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fUgJINs.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT Arabic
+http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="beIN Sports" tvg-name="beIN Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD 1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-id="Al Kass 2" tvg-name="Al Kass 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Al Kass 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="Al Kass 5" tvg-name="Al Kass 5" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,IBEIN 10 512 ULTRA" group-title="Sport",IBEIN 10 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1690.ts
+#EXTINF:-1,BEIN 9 512 ULTRA" group-title="Sport",IBEIN 9 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1691.ts
+#EXTINF:-1,BEIN 8 512 ULTRA" group-title="Sport",IBEIN 8 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1692.ts
+#EXTINF:-1,BEIN 7 512 ULTRA" group-title="Sport",IBEIN 7 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1693.ts
+#EXTINF:-1,BEIN 6 512 ULTRA" group-title="Sport",IBEIN 6 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1694.ts
+#EXTINF:-1,BEIN 5 512 ULTRA" group-title="Sport",IBEIN 5 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1695.ts
+#EXTINF:-1,BEIN 4 512 ULTRA" group-title="Sport",IBEIN 4 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1696.ts
+#EXTINF:-1,BEIN 3 512 ULTRA" group-title="Sport",IBEIN 3 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1697.ts
+#EXTINF:-1,BEIN 2 512 ULTRA" group-title="Sport",IBEIN 2 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1698.ts
+#EXTINF:-1,BEIN 1 512 ULTRA" group-title="Sport",IBEIN 1 512 ULTRA
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1699.ts
+#EXTINF:-1,IBEIN 10 ULTRA SD" group-title="Sport",IBEIN 10  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1680.ts
+#EXTINF:-1,BEIN 9 ULTRA SD" group-title="Sport",IBEIN 9  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1681.ts
+#EXTINF:-1,BEIN 8 ULTRA SD" group-title="Sport",IBEIN 8  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1682.ts
+#EXTINF:-1,BEIN 7 ULTRA SD" group-title="Sport",IBEIN 7  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1683.ts
+#EXTINF:-1,BEIN 6 ULTRA SD" group-title="Sport",IBEIN 6  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1684.ts
+#EXTINF:-1,BEIN 5 ULTRA SD" group-title="Sport",IBEIN 5  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1685.ts
+#EXTINF:-1,BEIN 4 ULTRA SD" group-title="Sport",IBEIN 4  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1686.ts
+#EXTINF:-1,BEIN 3 ULTRA SD" group-title="Sport",IBEIN 3  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1687.ts
+#EXTINF:-1,BEIN 2 ULTRA SD" group-title="Sport",IBEIN 2  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1688.ts
+#EXTINF:-1,BEIN 1 ULTRA SD" group-title="Sport",IBEIN 1  ULTRA SD
+http://xmobis.com:8100/live/035c536f8d/035c536fcc/1689.ts
+#EXTINF:-1 tvg-id="MYHD ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-country="" tvg-url="" group-title="General",ANIMAL PLANET
+http://213.152.172.67:25461/live/sourcemyhdpro1/4690746424/1664.m3u8
+#EXTINF:-1 tvg-id="MYHD Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-country="" tvg-url="" group-title="General",Nat Geo Wild HD
+http://213.152.172.67:25461/live/sourcemyhdpro1/4690746424/1666.m3u8

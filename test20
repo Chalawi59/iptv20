@@ -61,9 +61,9 @@ http://xmobis.com:8100/live/035c536f8d/035c536fcc/1023.ts
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
 #EXTINF:-1,1BeIN MOVIES PREMIER HD" group-title="Movies",1BeIN MOVIES PREMIER HD
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1021.ts
-#EXTINF:-1,AR:Al-Arabiya" group-title="News",Al-Arabiya
+#EXTINF:-1,AlArabiya" group-title="News",AlArabiya
 http://tv2iptv.com:8000/live/badr/badr1234/266.m3u8
-#EXTINF:-1,AR:AL-Hadath" group-title="News",Al-Arabiya AL-Hadath
+#EXTINF:-1,ALHadath" group-title="News",ALHadath
 http://tv2iptv.com:8000/live/badr/badr1234/264.m3u8
 #EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8

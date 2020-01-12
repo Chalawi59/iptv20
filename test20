@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Al Quraan" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
@@ -63,10 +61,10 @@ http://xmobis.com:8100/live/035c536f8d/035c536fcc/1023.ts
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
 #EXTINF:-1,1BeIN MOVIES PREMIER HD" group-title="Movies",1BeIN MOVIES PREMIER HD
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1021.ts
-#EXTINF:-1,AR: Al Arabiya" group-title="News",Al Arabiya
-http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55998.ts
-#EXTINF:-1,AR: Al Arabia Alhadath" group-title="News",Al Arabiya Alhadath
-http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55873.ts
+#EXTINF:-1,AR:Al-Arabiya" group-title="News",Al-Arabiya
+http://tv2iptv.com:8000/badr/badr1234/266
+#EXTINF:-1,AR:AL-Hadath" group-title="News",AlArabiya ALHadath
+http://tv2iptv.com:8000/badr/badr1234/264
 #EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC-Arabic" tvg-name="BBC-Arabic" group-title="News",BBC-Arabic

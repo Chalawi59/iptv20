@@ -62,9 +62,9 @@ http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
 #EXTINF:-1,1BeIN MOVIES PREMIER HD" group-title="Movies",1BeIN MOVIES PREMIER HD
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1021.ts
 #EXTINF:-1,AR:Al-Arabiya" group-title="News",Al-Arabiya
-http://tv2iptv.com:8000/badr/badr1234/266
-#EXTINF:-1,AR:AL-Hadath" group-title="News",AlArabiya ALHadath
-http://tv2iptv.com:8000/badr/badr1234/264
+http://tv2iptv.com:8000/live/badr/badr1234/266.m3u8
+#EXTINF:-1,AR:AL-Hadath" group-title="News",Al-Arabiya AL-Hadath
+http://tv2iptv.com:8000/live/badr/badr1234/264.m3u8
 #EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC-Arabic" tvg-name="BBC-Arabic" group-title="News",BBC-Arabic
@@ -75,8 +75,6 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="Al Iraqiya TV" tvg-name="Al Iraqiya TV" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
-#EXTINF:-1,AR-: AlJazeera" group-title="News",AlJazeera
-http://xmobis.com:8100/live/035c536f8d/035c536fcc/1574.ts
 #EXTINF:-1,AlJazeera Mubasher" group-title="News",AlJazeera Mubasher
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1066.ts
 #EXTINF:-1,NL: AlJazeera" group-title="News",AlJazeera 
